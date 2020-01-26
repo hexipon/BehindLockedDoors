@@ -1,0 +1,1 @@
+UltimateOutline-master is the outline shader used for interactable objects. This was taken from https://github.com/Shrimpey/UltimateOutline
